@@ -91,7 +91,13 @@ src/
 
 # 📸 Screenshots
 
-*(Screenshots will be added soon.)*
+### Main Menu
+
+![Main Menu](screenshots/MainMenu.png)
+
+### Course Registration Interface
+
+![Course Registration Interface](screenshots/RegistrationGUI.png)
 
 ---
 
