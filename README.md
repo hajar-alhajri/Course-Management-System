@@ -97,7 +97,7 @@ src/
 
 ### Course Registration Interface
 
-![Course Registration Interface](screenshots/RegistrationGUI.png)
+![Course Registration Interface](screenshots/RegistrationGui.png)
 
 ---
 
